@@ -53,3 +53,4 @@ function peak(arr) {
     }
     return -1;
 }
+- Люблю пельмени
